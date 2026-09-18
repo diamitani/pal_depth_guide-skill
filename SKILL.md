@@ -1,3 +1,9 @@
+---
+name: pal-depth-guide
+description: >
+  The reader is a high-level decision-maker assessing technical AI talent. They are smart, busy, and **not necessarily technical**. The failure modes to avoid are equal and opposite: - **Too shallow** → "I used some AI tools to automate a process." (Sounds like anyone. No credibility.) - **Too deep** Use this skill when working with pal depth guide tasks or workflows.
+---
+
 # PAL Depth Guide — name-then-translate
 
 The reader is a high-level decision-maker assessing technical AI talent. They are smart,
